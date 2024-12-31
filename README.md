@@ -27,6 +27,11 @@ About the Client
 - Cleaned the provided datasets: Reaction Types, Reactions, and Content.
 - Merged the datasets to create a comprehensive dataset.
 - Identified the [top 5 performing categories] based on total reaction scores.
+
+- # Data Model
+- <p align="center">
+  <img src="data_model_accenture.png" alt="Image1" style="width: 651px; height: 645px; max-width: 100%; height: auto;" />
+</p>  
   
 ## Task 3: Data Visualization & Storytelling 📊📖
 
@@ -57,7 +62,9 @@ Animals.
 4. From the analysis, the top 5 most popular categories of posts were Animals, Science, Healthy Eating, Technology and Food in descending
 order. 
 
-              ![insights1](https://github.com/user-attachments/assets/62476025-7b64-4063-a215-26d340249cab)
+<p align="center">
+  <img src="insights1.png" alt="Image1" style="width: 651px; height: 645px; max-width: 100%; height: auto;" />
+</p> 
 
 
 5. Animals had an aggregate popularity score of around **68624**. 
@@ -68,6 +75,12 @@ that Food is a highly engaging content category.
 7. Healthy Eating ranks slightly higher than Food, so perhaps the user base may be skewed towards healthy eaters and health-conscious people. This could be a signal to show the types of people that are using the platform, and they could use this insight to boost engagement even further. For example, Social Buzz could run a campaign with content focused on this category or work with healthy eating brands to promote content.
 
 8. It was also interesting to see Science and Technology too. This may suggest that people enjoy consuming "real-life" and "factual" content, and snippets of content that they can learn something from.
+
+
+## Top 5 performing categories
+<p align="center">
+  <img src="insights1.png" alt="Image1" style="width: 651px; height: 645px; max-width: 100%; height: auto;" />
+</p> 
   
 ## Conclusion
 
