@@ -79,11 +79,35 @@ that Food is a highly engaging content category.
 
 ## Top 5 performing categories
 <p align="center">
-  <img src="insights1.png" alt="Image1" style="width: 651px; height: 645px; max-width: 100%; height: auto;" />
+  <img src="top5_catageries.png" alt="Image1" style="width: 551px; height: 545px; max-width: 100%; height: auto;" />
+</p> 
+
+## Based on popularity
+<p align="center">
+  <img src="popularity.png" alt="Image1" style="width: 551px; height: 545px; max-width: 100%; height: auto;" />
+</p> 
+
+## Based on post by contents
+<p align="center">
+  <img src="post by contents.png" alt="Image1" style="width: 551px; height: 545px; max-width: 100%; height: auto;" />
 </p> 
   
 ## Conclusion
 
 This internship journey has been an incredible learning experience, allowing me to apply data analytics and visualization skills in a real-world setting. I'm grateful for the opportunity to contribute to our client's success and to grow both personally and professionally during this internship at Accenture.
+
+1.  Animals and science are two of the most popular content categories, this shows that people enjoy “real-life” and “factual” content the most. So I would recommend that you keep creating more contents relating to these two categories.
+
+2.Food is a common theme with the top 5 categories with “Healthy Eating” ranking as one of the highest. This may give an indication to the audience within your user base. You could use this insight to create a campaign and work with healthy eating brands to boost user engagement.
+
+3. With rise in technology it is no surprise to see contents related to technology right up with the top categories. It show users enjoy your technology contents. I would recommend collaborating with some of the world’s tech giants as this would definitely make user engagement skyrocket.
+
+
+
+
+
+
+
+
 
 ---
