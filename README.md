@@ -57,9 +57,8 @@ Animals.
 4. From the analysis, the top 5 most popular categories of posts were Animals, Science, Healthy Eating, Technology and Food in descending
 order. 
 
-<p align="center">
-  <img src="Images/Picture2.jpg" alt="Image1" style="width: 593px; height: 368px; max-width: 100%; height: auto;" />
-</p>
+              ![insights1](https://github.com/user-attachments/assets/62476025-7b64-4063-a215-26d340249cab)
+
 
 5. Animals had an aggregate popularity score of around **68624**. 
 
