@@ -98,7 +98,7 @@ This internship journey has been an incredible learning experience, allowing me 
 
 1.  Animals and science are two of the most popular content categories, this shows that people enjoy “real-life” and “factual” content the most. So I would recommend that you keep creating more contents relating to these two categories.
 
-2.Food is a common theme with the top 5 categories with “Healthy Eating” ranking as one of the highest. This may give an indication to the audience within your user base. You could use this insight to create a campaign and work with healthy eating brands to boost user engagement.
+2.  Food is a common theme with the top 5 categories with “Healthy Eating” ranking as one of the highest. This may give an indication to the audience within your user base. You could use this insight to create a campaign and work with healthy eating brands to boost user engagement.
 
 3. With rise in technology it is no surprise to see contents related to technology right up with the top categories. It show users enjoy your technology contents. I would recommend collaborating with some of the world’s tech giants as this would definitely make user engagement skyrocket.
 
